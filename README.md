@@ -2,7 +2,6 @@ Frontend Knowledge Structure
 ========
 ## 项目起源
 这是我的修改只是用来测试的。
-
 还记得@jayli 的这幅前端知识结构图么。
 
 ![前端知识结构](https://raw.github.com/JacksonTian/fks/master/figures/fks.jpg)
